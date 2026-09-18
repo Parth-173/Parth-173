@@ -18,13 +18,13 @@
 
 <p align="center">
 
-  <span><a href="https://komarev.com/ghpvc/?username=Parth-173">
+  <a href="https://komarev.com/ghpvc/?username=Parth-173">
     <img src="https://komarev.com/ghpvc/?username=Parth-173&label=Profile%20views&color=0e75b6&style=flat" alt="Parth Shinde profile views" />
-  </a></span>
+  </a>
 
-  <span><a href="https://github.com/Parth-173?tab=followers">
+  <a href="https://github.com/Parth-173?tab=followers">
     <img src="https://img.shields.io/github/followers/Parth-173?label=Followers&style=flat" alt="GitHub followers" />
-  </a></span>
+  </a>
 
 </p>
 
