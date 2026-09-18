@@ -85,7 +85,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
 
 <a href="https://www.linkedin.com/in/parth-shinde-4692ba259/" target="_blank">
   <img
