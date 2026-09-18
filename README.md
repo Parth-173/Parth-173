@@ -1,266 +1,243 @@
-<!-- ========================================================= -->
-<!--                     PARTH SHINDE                         -->
-<!-- ========================================================= -->
-
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Parth Shinde">
+  <img src="assets/banner.png" alt="Parth Shinde GitHub Banner" width="100%">
 </p>
 
-<br>
 
-<!-- ======================== INTRO ========================= -->
+<h1 align="center">Hi 👋, I'm Parth Shinde</h1>
 
-<table align="center">
-<tr>
-<td align="center" width="900">
-
-# 🌙 Hi, I'm Parth Shinde
-
-### AI & Data Science Engineer
-
-**AI/ML · Backend · Automation · NLP**
-
-<br>
-
-Building intelligent systems and exploring the intersection of
-**artificial intelligence, software engineering, and automation.**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ======================= ABOUT ME ======================= -->
-
-<table align="center">
-<tr>
-<td width="900">
-
-## About Me
-
-I'm an **Artificial Intelligence & Data Science Engineer** who enjoys
-understanding how intelligent systems work and turning ideas into
-practical software.
-
-My interests lie in **Artificial Intelligence, Machine Learning,
-Natural Language Processing, backend development, automation,
-and data-driven systems.**
-
-I enjoy learning by building, experimenting with technologies,
-and solving problems through code.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ======================= INTERESTS ====================== -->
-
-<table align="center">
-<tr>
-<td width="900">
-
-## 🧠 Interests
-
-<table width="100%">
-<tr>
-
-<td align="center" width="33%">
-
-**Artificial Intelligence**
-
-Machine Learning  
-Deep Learning  
-Intelligent Systems
-
-</td>
-
-<td align="center" width="33%">
-
-**NLP & LLMs**
-
-Natural Language Processing  
-Large Language Models  
-AI Applications
-
-</td>
-
-<td align="center" width="33%">
-
-**Software Engineering**
-
-Backend Development  
-Automation  
-Developer Tools
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%">
-
-**Document Intelligence**
-
-OCR  
-PDF Processing  
-Document Automation
-
-</td>
-
-<td align="center" width="33%">
-
-**Data Science**
-
-Data Analysis  
-Visualization  
-Data-driven Systems
-
-</td>
-
-<td align="center" width="33%">
-
-**Problem Solving**
-
-Algorithms  
-Data Structures  
-Continuous Learning
-
-</td>
-
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ====================== TECH STACK ====================== -->
-
-<table align="center">
-<tr>
-<td width="900">
-
-## 🛠️ Tech I Work With
-
-### Languages
+<h3 align="center">
+  AI & Data Science Engineer | Machine Learning | Backend Development | Automation
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
-</p>
-
-### AI / Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
-
-### Backend & Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,postman" />
-</p>
-
-### Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+  I am an Artificial Intelligence and Data Science engineer passionate about building
+  practical AI systems, intelligent automation workflows, backend APIs, and data-driven
+  applications. I enjoy exploring new technologies, solving real-world problems, and
+  turning ideas into useful software.
 </p>
 
 <p align="center">
 
-<strong>
-Python · C++ · SQL · FastAPI · Flask · Machine Learning · NLP · OCR · n8n
-</strong>
+  <span><a href="https://komarev.com/ghpvc/?username=Parth-173">
+    <img src="https://komarev.com/ghpvc/?username=Parth-173&label=Profile%20views&color=0e75b6&style=flat" alt="Parth Shinde profile views" />
+  </a></span>
+
+  <span><a href="https://github.com/Parth-173?tab=followers">
+    <img src="https://img.shields.io/github/followers/Parth-173?label=Followers&style=flat" alt="GitHub followers" />
+  </a></span>
 
 </p>
 
-</td>
-</tr>
-</table>
+<!-- ==================== TECH ICONS ==================== -->
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50"/>
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50"/>
+
+</div>
 
 <br>
 
-<!-- ======================= EDUCATION ====================== -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 
-<table align="center">
-<tr>
-<td width="900">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50"/>
+  <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="50"/>
 
-## 🎓 Education
+</div>
 
-<table width="100%">
-<tr>
+<br><br>
 
-<td width="70%">
+<!-- ==================== ABOUT ==================== -->
 
-### B.E. — Artificial Intelligence & Data Science
+<h1>About Me</h1>
 
-**D. Y. Patil College of Engineering, Pune**
 
-Savitribai Phule Pune University
+- 🔭 I’m currently building projects in **AI, Machine Learning and Data Science**
 
-</td>
+- 🌱 I’m currently learning and improving my skills in **Machine Learning, Deep Learning, DSA and Backend Development**
 
-<td align="right" width="30%">
+- 👨‍💻 All of my projects are available on my **[GitHub](https://github.com/Parth-173)**
 
-**2022 — 2026**
+- 💬 Ask me about **Python, C++, Machine Learning, FastAPI, OCR and Workflow Automation**
 
-<br>
+- 📊 I also work with **Pandas, NumPy, Matplotlib, Power BI and Tableau**
 
-**SGPA: 9.17 / 10**
+- 🤖 Interested in **AI/ML, NLP, OCR, LLM applications and intelligent automation**
 
-</td>
+- 📫 Reach me at **parthshinde173@gmail.com**
 
-</tr>
-</table>
+- 🏆 Winner of **AVISHKAR 2025 Project Competition** for DocGenie
 
-</td>
-</tr>
-</table>
+- ⚡ Fun fact: **I enjoy turning repetitive work into automation**
 
 <br>
 
+<!-- ==================== CONNECT ==================== -->
 
-<!-- ======================= CONNECT ======================== -->
+<h3 align="left">Connect with me:</h3>
 
-<table align="center">
-<tr>
-<td align="center" width="900">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 
-## 🤝 Connect With Me
-
-<br>
-
-<a href="https://linkedin.com/in/parth-shinde-4692ba259/">
+<a href="https://www.linkedin.com/in/parth-shinde-4692ba259/" target="_blank">
   <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="Parth Shinde LinkedIn"
+    width="40"
   />
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/SxP0xAD173/">
+<a href="https://github.com/Parth-173" target="_blank">
   <img
-    src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
-    alt="LeetCode"
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+    alt="Parth Shinde GitHub"
+    width="40"
   />
 </a>
 
-&nbsp;&nbsp;
+<a href="https://leetcode.com/u/SxP0xAD173/" target="_blank">
+  <img
+    align="center"
+    src="assets\leetcode.svg"
+    alt="Parth Shinde LeetCode"
+    width="40"
+  />
+</a>
 
 <a href="mailto:parthshinde173@gmail.com">
   <img
-    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Gmail"
+    align="center"
+    src="assets\gmail.svg"
+    alt="Email Parth Shinde"
+    width="40"
   />
 </a>
+
+</div>
+
+<br>
+
+<!-- ==================== LANGUAGES AND TOOLS ==================== -->
+
+<h3 align="left">Languages and Tools:</h3>
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p>
+
+`Machine Learning` · `Deep Learning` · `NLP` · `OCR` · `LLM`
+
+`Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
+
+---
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
+  </a>
+</p>
+
+`FastAPI` · `Flask` · `REST APIs` · `API Integration`
+
+---
+
+### 🔄 Automation & APIs
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+`n8n` · `AI Agents` · `Google APIs` · `Google Classroom API`
+
+`Google Sheets API` · `Trello API` · `Workflow Automation`
+
+---
+
+### 🗄️ Database
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  </a>
+</p>
+
+`MySQL` · `MongoDB` · `SQL`
+
+---
+
+### 📊 Data Analysis & Visualization
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p>
+
+`Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
+
+`Power BI` · `Tableau` · `Looker Studio`
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+  </a>
+</p>
+
+`Git` · `GitHub` · `VS Code` · `Jupyter Notebook`
+
+`Google Colab` · `Postman` · `Docker`
+
+<br/>
+
+
+<!-- ==================== PROJECTS ==================== -->
+
+<h3 align="left">🚀 Featured Projects</h3>
+
+<table>
+<tr>
+<td>
+
+<h2 align="center">📚 DocGenie</h2>
+
+<h3 align="center">
+  Automated API Documentation Generator
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Semantic-8A2BE2?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/API%20Documentation-00A8E8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Automation-FF6B35?style=for-the-badge">
+</p>
+
+<p align="center">
+  <em>
+    Turning source code and API specifications into intelligent,
+    developer-friendly documentation.
+  </em>
+</p>
 
 </td>
 </tr>
@@ -268,4 +245,46 @@ Savitribai Phule Pune University
 
 <br>
 
-</p>
+<!-- ==================== PROJECT OVERVIEW ==================== -->
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🧠 What is DocGenie?
+
+**DocGenie** is an AI-powered platform designed to automatically generate high-quality API documentation, SDKs, and test cases from different API-related sources.
+
+Instead of manually writing documentation for every endpoint, DocGenie processes structured and unstructured API information and transforms it into useful developer resources.
+
+<br>
+
+### ✨ What it generates
+
+- 📖 **API Documentation**
+- 🧩 **SDKs**
+- 🧪 **Test Cases**
+- 📝 **Endpoint Descriptions**
+- 🔗 **Usage Examples**
+- 👨‍💻 **Developer Guidance**
+- 📊 **Documentation Coverage Analysis**
+
+</td>
+
+<td width="45%" align="center" valign="middle">
+
+```text
+        ┌─────────────────────┐
+        │     👨‍💻 Developer   │
+        └──────────┬──────────┘
+                   │
+                   ▼
+        ┌─────────────────────┐
+        │      DocGenie       │
+        │    🤖 AI Engine     │
+        └──────────┬──────────┘
+                   │
+          ┌────────┼────────┐
+          │        │        │
+          ▼        ▼        ▼
+       📖 Docs   🧩 SDKs   🧪 Tests
